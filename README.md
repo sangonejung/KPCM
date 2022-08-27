@@ -3,7 +3,7 @@
 ## Clone project
 
 ```
-git clone https://github.com/Ibaslogic/react-multilevel-dropdown-menu
+git clone https://github.com/sangonejung/KPCM
 ```
 
 ```
